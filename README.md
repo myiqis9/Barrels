@@ -2,10 +2,11 @@
 
 ## Description
 A short project for school made on Unreal Engine. Weave your way across an ominous temple and defend yourself against fearsome enemies and turrets to hopefully escape...
+
 (Game files are currently unable to be pushed onto GitHub)
 
 ## Languages and Utilities Used
-C#
+Blueprints/C++
 
 ## Engine Used
 Unreal Engine
